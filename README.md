@@ -23,3 +23,5 @@ The Vrinda store aims to generate a comprehensive sales report for the year 2022
 • Launch different sales/ads/coupons in the month of March.
 • Increase stock levels on Amazon, Flipkart, and Myntra.
 • Target the women customers of the adult age group living in Maharashtra, Karnataka, and Uttar Pradesh states
+
+![Screenshot 2024-03-03 235926](https://github.com/MansiTamrakar05/Interactive-Data-Analysis-Dashboard-for-Vrinda-Store-using-MS-Excel/assets/145235254/32f1ff4d-76f0-47a6-ad29-90bf7c811d6c)
